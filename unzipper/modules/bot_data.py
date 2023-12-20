@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @kissu123456 if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -279,7 +279,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@kissu123456** or join the chat **@EDM115_chat**
+    PM me at **@kissu123456** or join the chat ** @kissu123456**
     """
 
     ABOUT_TXT = """
