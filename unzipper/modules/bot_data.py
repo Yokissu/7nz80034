@@ -102,7 +102,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @kissu123456**
     """
 
     PROCESSING = "**Processing…**"
@@ -123,7 +123,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel alright"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join @kissu123456"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -159,7 +159,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by @kissu123456 🥰
     """
 
     URL_UPLOAD = """
@@ -175,7 +175,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @kissu123456 if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -208,7 +208,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @kissu123456 if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` files were extracted from that archive"
@@ -251,7 +251,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @kissu123456**
 
 **/donate** if you can 🥺
     """
@@ -279,7 +279,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@kissu123456** or join the chat **@EDM115_chat**
     """
 
     ABOUT_TXT = """
@@ -287,14 +287,12 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+**[Rate me ⭐](https://kissuXdevil.co)**
+Made with ❤️ by **@kissu123456*
     """
 
-    DONATE_TEXT = """
+    DONATE_TEXT1 = """
 I'm going to be honest : **this bot costs me money**…
 Nothing's free on this world, however I try to keep this bot for free for as many people as possible
 I don't like to put restrictions, nor getting your PM's flooded with ads…
@@ -575,7 +573,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @kissu123456 ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -1055,7 +1053,7 @@ class Buttons:
     RATE_ME = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(Messages.RATE, url="https://t.me/BotsArchive/2705"),
+                InlineKeyboardButton(Messages.RATE, url="https://t.me/kissu123456/2"),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback")
             ],
         ]
