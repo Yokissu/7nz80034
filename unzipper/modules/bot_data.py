@@ -471,7 +471,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @pwlived if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -500,7 +500,7 @@ File : {}
 
     PLS_SEND_PASSWORD = "**Please send me the password 🔑**"
 
-    PASSWORD_PROTECTED = "That archive is password protected 😡 **Don't fool me !**    "
+    PASSWORD_PROTECTED = "That archive is password protected ☠️ **Don't fool me !**    "
 
     SELECT_FILES = "Select files to upload 👇"
 
@@ -522,12 +522,12 @@ User ID : {}
     NOT_AN_ARCHIVE = """
 That's not an archive 💀
 
-**Try to @transload it**
+**Try to transload it**
     """
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **pwlived**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -536,7 +536,7 @@ If you believe it's an error, send the file to **@EDM115**
 
     ERR_DL = "Error on download : {}"
 
-    CANT_DL_URL = "**Sorry, I can't download that URL 😭 Try to @transload it**"
+    CANT_DL_URL = "**Sorry, I can't download that URL 😭 Try to transload it**"
 
     GIVE_ARCHIVE = "Give me an archive to extract 😐"
 
@@ -555,7 +555,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @kissu123456 with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -683,12 +683,12 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @kissu123456"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@pwliver**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -827,7 +827,7 @@ Here's all the commands that only the owner (you) can use :
 **/self** : Get full info about me (info returned by Pyrogram)
 **/redbutton** : Will fully restart bot + server
 **/cleanall** : Same as `/clean`, but for the whole server
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@pwlived** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : Exports the whole database as CSV
 **/admincmd** : This message
