@@ -11,7 +11,7 @@
     ],
     "website": "https://edm115.dev/unzip",
     "repository": "https://github.com/kittukunal01/Unzipper",
-    "success_url": "https://t.me/EDM115bots",
+    "success_url": "https://t.me/kissu123456",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
